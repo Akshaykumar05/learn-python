@@ -8,5 +8,5 @@
 5. Functions
 6. Lists
 7. Tuple
-8. Classes & objects
+8. Object Oriented Programming- Classes & objects
 9. Constructor
