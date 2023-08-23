@@ -59,3 +59,26 @@
 * Module (%) Operator
 * The exponent operator 
   
+#### User Input
+##### Program execution Cycle:
+* Source Code => Byte Code => PVM
+
+#### Input:
+* The input (string) method returns a line of user input as a string.
+* The string can be converted by using the conversion methods int(string) converts to int, float(string) converts to float or eval(string) converts and evaluates expressions etc.
+
+##### Arithmetic Questions:
+1. Read two integers from STDIN and print three lines where:
+   * The first line contains the sum of the two numbers.
+   * The second line contains the difference of the two numbers.
+   * The third line contains the product of the two numbers.
+  
+2. Read two integers and print two lines.
+   * The fisrt line should contain integer division.
+   * The seconf line contain float division.
+
+3. Calculate an average marks of 5 students.
+
+
+
+
