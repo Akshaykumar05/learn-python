@@ -110,7 +110,7 @@
 
 2. Arithmetic Operator:
 * = - *
-* 5
+* %
 * **
 
 3. Precedence: Order in which operators are computed.
