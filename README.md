@@ -109,9 +109,9 @@
 * Example: 1+4*3
 
 2. Arithmetic Operator:
-* = - *
+* = - * /
 * %
-* **
+* (multiply) **
 
 3. Precedence: Order in which operators are computed.
    * / % ** have a higher predence than +, -
