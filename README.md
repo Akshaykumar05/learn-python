@@ -142,4 +142,16 @@
 4. Sets
 5. Dictionaries
 
+3. Tuples
+* A tuple is a sequence of immutable Python objects. Tuples are sequences, just like lists. The differences between tuples and lists are, the tuples canm not be changed unlike lists and tuples use parentheses, whereas lists use square brackets.
+* Creating a tuple is as simple as putting different comma-separated values. Optionally you can put these comma-separated values between parenthese also. For example-
+  * tup1 = ('physics', 'chemistry', 1997, 2000);
+  * tup2 = (1, 2, 3, 4, 5 );
+  * tup3 = "a", "b", "c", "d" ;
+
+* The empty tuple is written as two parentheses containing nothing-
+  * tup1 = ();
+
+* To write a tuple containing a single value you have to include a comma, even though there is only one value -
+  * tup1 = (50, );
 
