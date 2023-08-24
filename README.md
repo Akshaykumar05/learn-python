@@ -142,7 +142,39 @@
 4. Sets
 5. Dictionaries
 
-3. Tuples
+2. Lists
+* Dynamic arrays, **mutable** collection of data.
+* A list is the Python equivalent of an array, but is resizeable.
+* Can contain element of different types.
+* An ordered group of sequences enclosed inside square brackets andseparated by symbol comma(,)
+* list1 = [] # creation of empyy list
+* list2 = list() # empty list using list funtion
+* list3 = [sequence1, Sequence2]
+  * Examples
+    * country = ['India'
+    * Lists of strings
+    * states = ['tamilnadu','Gujrat','Mizoram']
+    * array = [2,3,4,5,7,19,23,15,20] # list of integers
+    * L = [7575, 'Shyam', 25067.56] # list of mixed data
+    * # Following is a Nested 2-D list
+    * L = [[7575,''Join",25067.56], [7541,"Joe", 5678.2], [7832, "Jill", 43565.23]]
+   
+  * Basic List Operatons
+    * list= [2,34,53,12,9]
+    * len(list)  # length of list is 5
+    * Print([1,3,9]+[8,6,5]) # Concatenation of two lists
+    * ['Hello']*3  #['Hello','Hello','Hello']
+    * [5]*3  #[5,5,5]
+    * print97in[1,3,7]) # Membership,
+    * for n in[1,3,7]:
+      * print(n) #print1,3,7
+     
+  * Accessing values in Lists
+    * To access values in lists, use the square brackets for slicing along with the index or indices to obtain value available at that indes.
+    * list1=['physics','chemistry',1995,2000]
+    * list2=[9,3,8,4,5,7,1,6]
+    * print("first element: ", list1[0])      
+4. Tuples
 * A tuple is a sequence of immutable Python objects. Tuples are sequences, just like lists. The differences between tuples and lists are, the tuples canm not be changed unlike lists and tuples use parentheses, whereas lists use square brackets.
 * Creating a tuple is as simple as putting different comma-separated values. Optionally you can put these comma-separated values between parenthese also. For example-
   * tup1 = ('physics', 'chemistry', 1997, 2000);
