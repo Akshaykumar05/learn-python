@@ -134,6 +134,12 @@
 * if-elif-else
 * Nested if
 
-
+#### Data Structure in Python
+* Some of the Data Structures (built-in container types) available in Python are:
+1. Strings
+2. List
+3. Tuples
+4. Sets
+5. Dictionaries
 
 
