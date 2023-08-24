@@ -187,3 +187,5 @@
 * To write a tuple containing a single value you have to include a comma, even though there is only one value -
   * tup1 = (50, );
 
+### NumPy
+* NumPy (Numerical Python) is an open source Python library that’s used in almost every field of science and engineering. It’s the universal standard for working with numerical data in Python, and it’s at the core of the scientific Python and PyData ecosystems. NumPy users include everyone from beginning coders to experienced researchers doing state-of-the-art scientific and industrial research and development. 
