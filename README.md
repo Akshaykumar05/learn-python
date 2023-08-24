@@ -118,5 +118,22 @@
    * Parenthesis can be used to force a certain evaluation.
    * (1+3) * 4 is 16
 
+#### Operators
+| Types                                                               | Examples                                                                                      |
+| :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
+| 1. Arithmetic Operators | (+, -, /, **, //, %)
+| 2. Relational Operators | (==, <,>, <=, >=, !=)
+| 3. Assignment Operators | (=, +=, -=, *=, //=, %=, **=)
+| 4. Bitwise Operators | (&,|,^,~, <<,>>)
+| 5. Logical Operators | (and, or, not)
+| 6. Membership & Identity | in, not in, is, is not)
+
+#### Decision Making Statement: (Conditional Statement)
+* if
+* if-else
+* if-elif-else
+* Nested if
+
+
 
 
