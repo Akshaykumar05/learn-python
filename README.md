@@ -187,5 +187,25 @@
 * To write a tuple containing a single value you have to include a comma, even though there is only one value -
   * tup1 = (50, );
 
+## Python Libraries
 ### NumPy
-* NumPy (Numerical Python) is an open source Python library that’s used in almost every field of science and engineering. It’s the universal standard for working with numerical data in Python, and it’s at the core of the scientific Python and PyData ecosystems. NumPy users include everyone from beginning coders to experienced researchers doing state-of-the-art scientific and industrial research and development. 
+* NumPy (Numerical Python) is an open source Python library that’s used in almost every field of science and engineering. It’s the universal standard for working with numerical data in Python, and it’s at the core of the scientific Python and PyData ecosystems. NumPy users include everyone from beginning coders to experienced researchers doing state-of-the-art scientific and industrial research and development.
+* It is used for working with arrays.
+* It is used for compulsion and processing of single and multi dimentional array of element.
+* Smaller memoory consumption and better runtime behavior.
+  #### To instal the Library
+  * pip start numpy
+  * imort numpy
+  #### Basic Operations
+  * "import numpy as np"
+    
+     #### Some Popular Python Packages for Data Science/Big Data/Machine Learning You Get Pre-compiled – with ActivePython
+     * pandas (data analysis)
+     * NumPy (multi-dimensional arrays)
+     * SciPy (algorithms to use with numpy)
+     * HDF5 (store & manipulate data
+     * Jupyter (research collaboration)
+     * PyTables (managing HDF5 datasets
+     * HDFS (C/C++ wrapper for Hadoop)
+     * pymongo (MongoDB driver)
+     * SQLAlchemy (Python SQL Toolkit)
