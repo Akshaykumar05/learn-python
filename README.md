@@ -188,7 +188,7 @@
   * tup1 = (50, );
 
 ## Python Libraries
-### NumPy
+### 1. NumPy
 * NumPy (Numerical Python) is an open source Python library that’s used in almost every field of science and engineering. It’s the universal standard for working with numerical data in Python, and it’s at the core of the scientific Python and PyData ecosystems. NumPy users include everyone from beginning coders to experienced researchers doing state-of-the-art scientific and industrial research and development.
 * It is used for working with arrays.
 * It is used for compulsion and processing of single and multi dimentional array of element.
@@ -209,3 +209,12 @@
      * HDFS (C/C++ wrapper for Hadoop)
      * pymongo (MongoDB driver)
      * SQLAlchemy (Python SQL Toolkit)
+   
+### 2. Pandas
+## OOPs Concepts in Python
+ * Class, Object and Method
+ * Constructor
+ * Encapsulation
+ * Inheritance
+ * Polymorphism
+
